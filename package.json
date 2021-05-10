@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-application-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0st/goit-js-application-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R0st/goit-js-application-server/issues"
+  },
+  "homepage": "https://github.com/R0st/goit-js-application-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
